@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades
+END
+Producto.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Producto.java
+END
+FacturaDetalle.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/FacturaDetalle.java
+END
+Compra.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Compra.java
+END
+Cliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Cliente.java
+END
+EntidadBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/EntidadBase.java
+END
+ProductoProveedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/ProductoProveedor.java
+END
+Factura.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Factura.java
+END
+RegistroPago.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/RegistroPago.java
+END
+Proveedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Proveedor.java
+END
+Pago.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Pago.java
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Usuario.java
+END
+Rol.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Rol.java
+END
+CompraDetalle.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/CompraDetalle.java
+END
+Caja.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/cvs-jpa/src/entidades/Caja.java
+END

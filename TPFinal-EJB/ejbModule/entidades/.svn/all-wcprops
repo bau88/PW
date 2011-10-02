@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/38/trunk/TPFinal-EJB/ejbModule/entidades
+END
+Producto.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/24/trunk/TPFinal-EJB/ejbModule/entidades/Producto.java
+END
+EntidadBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8/trunk/TPFinal-EJB/ejbModule/entidades/EntidadBase.java
+END
+RolUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/34/trunk/TPFinal-EJB/ejbModule/entidades/RolUsuario.java
+END
+RegistroPago.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/TPFinal-EJB/ejbModule/entidades/RegistroPago.java
+END
+Proveedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/TPFinal-EJB/ejbModule/entidades/Proveedor.java
+END
+CompraDetalle.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/34/trunk/TPFinal-EJB/ejbModule/entidades/CompraDetalle.java
+END
+FacturaDetalle.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/34/trunk/TPFinal-EJB/ejbModule/entidades/FacturaDetalle.java
+END
+Compra.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/34/trunk/TPFinal-EJB/ejbModule/entidades/Compra.java
+END
+Cliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8/trunk/TPFinal-EJB/ejbModule/entidades/Cliente.java
+END
+ProductoProveedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8/trunk/TPFinal-EJB/ejbModule/entidades/ProductoProveedor.java
+END
+Factura.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/trunk/TPFinal-EJB/ejbModule/entidades/Factura.java
+END
+Pago.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/38/trunk/TPFinal-EJB/ejbModule/entidades/Pago.java
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/34/trunk/TPFinal-EJB/ejbModule/entidades/Usuario.java
+END
+EntidadBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/TPFinal-EJB/ejbModule/entidades/EntidadBase.class
+END
+Rol.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/34/trunk/TPFinal-EJB/ejbModule/entidades/Rol.java
+END
+Caja.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8/trunk/TPFinal-EJB/ejbModule/entidades/Caja.java
+END

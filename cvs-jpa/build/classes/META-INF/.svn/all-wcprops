@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/cvs-jpa/build/classes/META-INF
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/cvs-jpa/build/classes/META-INF/persistence.xml
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/cvs-jpa/build/classes/META-INF/MANIFEST.MF
+END
+orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/cvs-jpa/build/classes/META-INF/orm.xml
+END

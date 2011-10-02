@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib
+END
+jbossws-native-jaxws-ext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/jbossws-native-jaxws-ext.jar
+END
+stax-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/stax-api.jar
+END
+jbossws-native-jaxws.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/jbossws-native-jaxws.jar
+END
+serializer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/serializer.jar
+END
+jbossws-native-saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/jbossws-native-saaj.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/xercesImpl.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/jaxb-api.jar
+END
+jboss-common-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/jboss-common-core.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/activation.jar
+END
+resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/resolver.jar
+END
+xalan.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/xalan.jar
+END
+jbossws-native-jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/TPFinal-WSclient/lib/jbossws-native-jaxrpc.jar
+END

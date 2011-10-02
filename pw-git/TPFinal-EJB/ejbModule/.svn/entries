@@ -1,0 +1,80 @@
+10
+
+dir
+81
+http://ejb3gwt-pweb.googlecode.com/svn/trunk/TPFinal-EJB/ejbModule
+http://ejb3gwt-pweb.googlecode.com/svn
+
+
+
+2011-07-16T10:33:01.513725Z
+79
+bettopindu@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fbcd0953-5762-1a36-33b8-63ac007d049d
+
+entidades
+dir
+
+META-INF
+dir
+
+facade
+dir
+
+eao
+dir
+
+excepciones
+dir
+
+EjbModule.gwt.xml
+file
+
+
+
+
+2011-09-30T22:47:15.006616Z
+c514185294deb10e4b777cb26841e3e9
+2011-02-07T23:20:58.194885Z
+22
+nribenz.pi@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+145
+
+webService
+dir
+

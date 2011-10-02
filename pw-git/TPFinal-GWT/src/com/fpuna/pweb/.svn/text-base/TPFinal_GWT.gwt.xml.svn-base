@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='tpfinal_gwt'>
+  <!-- Inherit the core Web Toolkit stuff.                        -->
+  <inherits name='com.google.gwt.user.User'/>
+
+  <!-- Referencia al proyecto EJB                                 -->
+  <inherits name='EjbModule'/>
+
+  <!-- Inherit the default GWT style sheet.  You can change       -->
+  <!-- the theme of your GWT application by uncommenting          -->
+  <!-- any one of the following lines.                            -->
+  <inherits name='com.google.gwt.user.theme.standard.Standard'/>
+  <!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
+  <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->
+
+  <!-- Other module inherits                                      -->
+  <!-- Inherit the SmartGWT Toolkit library configuration.                                      -->
+  <inherits name="com.smartgwt.SmartGwt"/>
+  
+  <!-- Specify the app entry point class.                         -->
+  <entry-point class='com.fpuna.pweb.client.TPFinal_GWT'/>
+
+  <!-- Specify the paths for translatable code                    -->
+  <source path='client'/>
+  <source path='shared'/>
+
+</module>
